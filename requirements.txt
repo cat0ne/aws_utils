@@ -1,0 +1,6 @@
+pandas
+boto3
+botocore
+s3fs
+fastparquet
+python-snappy
